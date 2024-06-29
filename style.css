@@ -1,0 +1,76 @@
+body {
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/a/a7/Atlantic_near_Faroe_Islands.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.9;
+}
+
+.parent {
+    background-image: url(https://img.freepik.com/premium-photo/mountain-serenity-snowy-peaks-moon-stars_954894-23138.jpg);
+    background-size: cover;
+    width: 900px;
+    height: 700px;
+    margin-left: 220px;
+    margin-top: 80px;
+    border-radius: 10px;
+    position: absolute;
+}
+
+.first {
+    margin-top: 240px;
+    margin-left: 50px;
+    color:aqua;
+    font-size: x-large;
+}
+
+form {
+    background-image: url(https://cdn.britannica.com/73/189273-131-DA3E2F9A/Denali-peak-center-Alaska-Range-North-America.jpg?w=840&h=460&c=crop);
+    z-index: 99;
+    background-position: center;
+    width: 400px;
+    height: 400px;
+    margin-left: 640px;
+    margin-top: -250px;
+    opacity: 0.9;
+    border-radius: 10px;
+    text-align: center;
+    justify-content: center;
+    box-shadow: 0 0 50px;
+}
+
+input {
+    margin-top: 10px;
+    border-radius: 25px;
+    border: none;
+    opacity: 0.7;
+    outline: none;
+    padding: 10px;
+    padding-left: 200px;
+}
+
+i {
+    font-size: x-large;
+}
+
+a {
+    color: aqua;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+button {
+    color: white;
+    background-color: rgb(11, 174, 174);
+    border-radius: 20px;
+    width: 300px;
+    height: 35px;
+    border: none;
+}
+
+input [type="chechbox"] {
+    width: 100px;
+    height:10px
+}
